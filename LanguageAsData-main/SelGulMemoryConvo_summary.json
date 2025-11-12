@@ -1,0 +1,51 @@
+{
+  "num_utterances": 102,
+  "num_tokens": 638,
+  "unique_types": 213,
+  "ttr": 0.3338557993730408,
+  "avg_sentence_length_tokens": 638.0,
+  "function_word_proportion": 0.47335423197492166,
+  "content_word_proportion": 0.5266457680250783,
+  "top_tokens_sample": [
+    [
+      "we",
+      29
+    ],
+    [
+      "toen",
+      25
+    ],
+    [
+      "maar",
+      22
+    ],
+    [
+      "ja",
+      21
+    ],
+    [
+      "en",
+      18
+    ],
+    [
+      "die",
+      16
+    ],
+    [
+      "dat",
+      14
+    ],
+    [
+      "van",
+      13
+    ],
+    [
+      "nee",
+      11
+    ],
+    [
+      "was",
+      11
+    ]
+  ]
+}
