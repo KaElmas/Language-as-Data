@@ -1,0 +1,44 @@
+Output created: 12/21/25 00:04:50
+
+NaN	: a kappa value of "NaN" usually indicates a division by zero
+0	: a kappa value of "0" replaces a value < 0 (negative kappa), as opposed to the value "0.000"
+
+Number of files involved: 1 (current transcription)
+Number of selected tiers: 2
+Number of pairs of tiers in the comparison: 1
+Required minimal overlap percentage: 60%
+
+Global results of all files and all tiers:
+value	kappa	kappa_max	raw agreement
+NE = New Episode Marker	0.7200	0.7200	0.8571
+NS = Narrative Step Marker	0.7200	0.7200	0.8571
+
+Global kappa values and agreement matrix:
+Overall results (incl. unlinked/unmatched annotations):
+kappa_ipf	kappa_max	raw agreement
+0.7200	0.7200	0.8571
+
+Overall results (excl. unlinked/unmatched annotations):
+kappa (excl.)	kappa_max (excl.)	raw agreement (excl.)
+0.7200	0.7200	0.8571
+
+Overall Agreement Matrix:
+First annotator in the rows, second annotator in the columns
+
+	NE = New Episode Marker	NS = Narrative Step Marker	Unmatched	
+NE = New Episode Marker	6	2	0	
+NS = Narrative Step Marker	0	6	0	
+Unmatched	0	0	0	
+
+
+Global per value agreement table:
+NE = New Episode Marker
+6	0
+2	6
+
+NS = Narrative Step Marker
+6	2
+0	6
+
+End of global results.
+################################################

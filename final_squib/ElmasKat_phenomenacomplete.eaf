@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-12-21T01:51:53+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/KatElmas/OneDrive - van der Meij college/bureaublad/LanguageAsData-main/SelGulMemoryConvo.m4a"
+            MIME_TYPE="unknown" RELATIVE_MEDIA_URL="./LanguageAsData-main/SelGulMemoryConvo.m4a"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3a69fc0c-f8e8-423d-be69-38b9174fd36a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">373</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="80"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="7980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="10520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="11550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="11660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="15950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="16340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="17910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="17940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="18390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="18460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="18840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="19370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="21230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="21890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="22490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="23170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="25240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="25550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="26520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="26690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="28800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="29090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="31780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="32910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="33690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="34110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="36050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="36120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="39520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="39780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="40790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="40970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="43050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="43370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="45910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="46660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="47620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="47740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="49060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="49220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="50410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="50870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="52770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="52930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="53510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="53600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="54470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="54630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="57250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="57870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="60570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="60820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="61690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="61790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="63770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="65560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="65670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="69400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="69820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="71010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="71400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="72360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="72540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="73620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="74180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="74970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="76320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="77660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="77760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="82890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="83080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="86170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="86520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="88040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="88610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="89830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="90420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="91950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="92030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="92130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="93210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="94700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="94710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="96100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="96460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="98820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="98890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="104740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="105420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="108040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="108210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="111620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="112010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="113100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="113260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="115720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="115760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="117860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="118030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="121140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="121360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="121600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="121660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="124890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="125330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="126750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="126940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="127950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="128530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="128560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="128580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="132870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="132880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="137860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="137950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="140140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="140580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="141430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="141470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="144400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="144470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="147040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="147920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="149760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="149770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="150250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="150680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="151490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="151600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="152250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="152480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="154500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="154800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="156680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="157070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="157180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="157880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="157940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="158420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="161590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="161970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="162650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="162810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="162960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="163570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="164460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="164960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="165710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="165740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="167260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="167770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="169030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="169310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="171660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="172310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="172870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="173490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="178800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="179620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="180280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="181220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="183840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="183880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="186170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="186440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="188840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="189180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="190080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="190690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="193140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="193180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="193700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="194370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="194580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="194700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="197310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="197720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="197860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="198710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="200300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="201240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="203060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="203690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="204940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="205450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="205800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="205890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="207010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="207330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="207660"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Selinay" TIER_ID="Selinay">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>en toen stonden er allemaal politie mochten we niet naar binnen [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>nee maar ik [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ohja wij dachten dat king charles erin zat [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>maar het was echt druk =</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>[ ] ik zei steeds tegen elmas vraag wat er is VRAAG wat er is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>nee nee daarna we vroegen uiteindelijk was er een bom ofzo =</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ik was echt bang he</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>toen gingen we ook gelijk weg volgens mij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>moesten we vroeg naar hotel omdat je buikpijn had</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>oke maar wist je nog die ene keer ook in de winter dat we naar oberhausen (.)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>kerstmarkt gingen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>ohja tweede keer ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>maar toen uhm (1.0)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>wat gebeurde er ohja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE> we hadden onze vaccinaties gewoon maar we hadden nog niet ons bewijs gekregen maar we hadden wel gewoon gevaccineerd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>maar wij hadden hem gewoon nog niet [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>en toen uhh :</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>kregen we onze bandjes niet om naar binnen te gaan enzo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>dus toen zeiden ze tegen ons ja jullie mogen alleen buiten want binnen kunnen jullie corona verspreiden enzo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>en toen gingen we buiten en hadden we van die bandjes gevonden ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>ja ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>en toen hadden we die om ons pols heen gedaan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>maar we hadden echt lang erover gedaan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>ja ik heb tape in mijn achterbak en dan kunnen we die gebruiken [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>maar toen hadden we eindelijk iedereen een bandje en toen ging jij en elmas toch als eerst proberen [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>nee jij hoefde niet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>iemand vroeg zo van ja waarom hoeft zij geen bandje waarom hoeft zij geen bandje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>zei ja toen zei van elmas van ja dit is een kind die hoeft nog geen bandje ze is nog geen veertien</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>oh oke ga dan maar door</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>dat was wel grappig</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>en toen zagen we toch die vrouw die tegen ons ging (.)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>zij dacht sowieso waarom hebben zij bandjes ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>((laughs)) mogen zij nog naar binnen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>oh maar dat was wel echt grappig ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>((laughs)) (2.0)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>[ ] oh maar</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>ja :</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>[ ] ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>ja :</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>ja maar we zaten toen beneden in het donker</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts179">
+                <ANNOTATION_VALUE>we zaten toen ook in het donker omdat de lichten toen niet aan konden he [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>ja ::</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>en toen moesten we onze telefoons opladen in een restaurant ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>[ ] ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts191">
+                <ANNOTATION_VALUE>maar die man gaf nog zijn powerbank die eigenaar van het hotel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>ohja van esin enzo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts203">
+                <ANNOTATION_VALUE>dat was echt grappig ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Gultanem" TIER_ID="Gultanem">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>((laughs)) ja we dachten wat er gebeurt er allemaal ::</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>[ ] NEE NEE NEE wa wa wacht</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>eerste keer dat we daar zo langs liepen toen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>waren toch van die uh (.)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>uh limousine en toen dachten we wie zit daar in enzo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>wist je nog [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>en toen die avond we gingen weer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>uhm (1.0)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>en toen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>het was echt druk ja [ ]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>[ ]ohja en toen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>nee baba had gestuurd papa had gestuurd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>van dat er zo een bommelding ofzo was zo een bom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>en toen ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>waren toch mensen van het nieuws gekomen ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>((laughs)) en toen stonden we op het nieuws</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ja ::</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>OHJA en toen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>toen gingen we volgens mij van die crepe eten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>zo ik had zoveel van gegeten dat ik helemaal buikpijn had</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>ik kon niet meer ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>die tweede keer toch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>OHJA nee nee nee maar het was toch zo dat als je had gevaccineerd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>dat je dan zo een code kreeg</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>maar je moest perse</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>veertien dagen ofzo wachten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>[ ] maar dat deden wij niet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>jij zei toch voor de grap zullen we gewoon die bandjes op de grond verzamelen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>= ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>= ja maar ja ik hoefde toch niet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>[ ] ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>= ohja maar volgens mij dacht zij gewoon van boeien</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>[ ] ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>[ ] oh mijn god</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>maar wist je nog die tweede keer dat we naar londen gingen met dat hotel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>[ ] ((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>(inaudible)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>die je hoort steeds zo tring</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>wij dachten gewoon van (.)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>mensen belletje lellen dus elmas ging zo kijken toch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>en toen moesten we blijkbaar allemaal naar beneden toe maar wij waren allemaal in onze pyjama enzo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>(1.0) was echt eng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>= ja maar het was ook zo warm binnen we gingen ook naar buiten toch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>of uh dat uh (1.0)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>hun kamer niet op slot ging</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts201">
+                <ANNOTATION_VALUE>= ja :</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>((laughs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Selinay"
+        PARTICIPANT="Selinay" TIER_ID="annotation selinay">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Gultanem"
+        PARTICIPANT="Gultanem" TIER_ID="annotation gultanem">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>EXPRESSIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Carla" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Selinay"
+        PARTICIPANT="Selinay" TIER_ID="Selinay carla's annotation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>EXPRESSIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>ACKNOLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Carla" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Gultanem"
+        PARTICIPANT="Gultanem" TIER_ID="Gultanem Carla's annotations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>QUESTION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>BACKCHANNEL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>EMOTIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>REPAIR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>CLARIFICATION</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>REQUEST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>EXPRESSIVE</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>ANSWER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>STATEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>ACKNOWLEDGEMENT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>OTHER</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Selinay"
+        PARTICIPANT="Selinay" TIER_ID="Phenomena Selinay">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Elmas" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Gultanem"
+        PARTICIPANT="Gultanem" TIER_ID="Phenomena Gultanem">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Carla" LINGUISTIC_TYPE_REF="annotation"
+        PARENT_REF="Selinay" PARTICIPANT="Selinay" TIER_ID="Phenomena Selinay_Carla">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Carla" LINGUISTIC_TYPE_REF="annotation"
+        PARENT_REF="Gultanem" PARTICIPANT="Gultanem" TIER_ID="Phenomena Gultanem_Carla">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Meleny" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Selinay"
+        PARTICIPANT="Selinay" TIER_ID="Phenomena Selinay_Meleny">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Meleny" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Gultanem"
+        PARTICIPANT="Gultanem" TIER_ID="Phenomena Gultanem_Meleny">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Sel" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Selinay"
+        PARTICIPANT="Selinay" TIER_ID="Phenomena Selinay_Sel">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Gul" DEFAULT_LOCALE="nl"
+        LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Gultanem"
+        PARTICIPANT="Gultanem" TIER_ID="Phenomena Gultanem_Gul">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>NE = New Episode Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>NS = Narrative Step Marker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
